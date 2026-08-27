@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author LAB-USR-TACNA
+ * @author ANTHONY RIVERA SIÑA
  */
 public class Boleta {
 
